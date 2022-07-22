@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loading-page/static/css/main.9248a366.css",
+    "main.js": "/loading-page/static/js/main.dfd9731e.js",
+    "index.html": "/loading-page/index.html",
+    "main.9248a366.css.map": "/loading-page/static/css/main.9248a366.css.map",
+    "main.dfd9731e.js.map": "/loading-page/static/js/main.dfd9731e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9248a366.css",
+    "static/js/main.dfd9731e.js"
+  ]
+}
